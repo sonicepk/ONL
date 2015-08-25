@@ -43,6 +43,7 @@ import fcntl
 #   because it has a special build rule to download it
 
 closed_source = [
+"onlp-x86-64-dell-s3000-c2338-r0:amd64",
 "onlp-x86-64-dell-s4000-c2338-r0:amd64",
 "onlp-x86-64-dell-s6000-s1220-r0:amd64",
 "onlp-powerpc-as5610-52x:powerpc",
